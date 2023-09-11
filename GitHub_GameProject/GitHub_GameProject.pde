@@ -1,4 +1,4 @@
-
+color backgroundCol = color(200);
 
 void setup()
 {
@@ -7,5 +7,6 @@ void setup()
 
 void draw()
 {
+  background(backgroundCol);
   
 }
